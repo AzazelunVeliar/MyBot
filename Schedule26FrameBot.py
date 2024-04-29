@@ -17,7 +17,7 @@ import pandas as pd
 import asyncio
 import os
 
-token = "7099765163:AAFSdTNCqJgwDgIral48IfZO9fJQLBj8Zx0"
+token = "777"
 client = httpx.AsyncClient(timeout=30.0) # Установка таймаута в 30 секунд
 bot = Bot(token=token)
 
